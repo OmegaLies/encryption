@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 require 'digest'
 
 puts "Введите слово или фразу для шифрования:"
